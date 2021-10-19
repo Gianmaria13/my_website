@@ -5,7 +5,7 @@ theme: forty
 googleAnalytics: ''
 disqusShortname: ''
 params:
-  banner:
+  banner:LBS.jpg
     buttonText: Let's take a look
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
@@ -76,27 +76,27 @@ params:
       - name: Elements
         url: elements.html
     menu: Menu
-    subtitle: By HTML5 Up
-    title: Forty
+    subtitle: By Gianmaria Bartoccioni
+    title: Website
   tiles:
     enable: yes
     showcase:
       - image: IMG_2763.jpg
-        subtitle: Ipsum Dolor Sit Amet
-        title: Aliquam
-        url: blogs/aliquam
+        subtitle: Gianmaria's CV
+        title: CV
+        url: blogs/cv
       - image: Eye_of_God.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Tempus
+        subtitle:  Habits Analysis
+        title: Drinking
         url: blogs/movies
       - image: Cascata_delle_marmore.jpg
-        subtitle: Lorem Etiam Nullam
-        title: Magna
+        subtitle: An Olistic Overview of the Phenomenon 
+        title: Climate Change
         url: blogs/magna
       - image: finance.jpg
-        subtitle: Nisl Sed Aliquam
-        title: Ipsum
-        url: blogs/ipsum
+        subtitle: Presentation of Data
+        title: Youth Risk Behavior Surveillance and Discrimination Analysis
+        url: blogs/peppapig
     #  - image: pic05.jpg
      #   subtitle: Ipsum Dolor Sit Amet
       #  title: Consequat
