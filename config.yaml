@@ -6,7 +6,7 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner:
-    buttonText: Get Started
+    buttonText: Let's take a look
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
@@ -14,10 +14,10 @@ params:
   blog: {}
   contact:
     address:
-      - city: City, ST 00000
-        country: Country
-        street: Street
-        title: Address
+      - city: London, UK NW14SA
+        country: United Kingdom
+        street: Regent's Park
+        title: London Business School
     buttonClear: Clear
     buttonSend: Send message
     email:
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (000) 000-0000 x1234
+      - phone: (044) 011-0222 x1234
         title: Phone
   custom_css: []
   custom_js: []
@@ -47,18 +47,18 @@ params:
  #       url: https://www.twitter.com
       - icon: fa-facebook
         label: Facebook
-        url: https://www.facebook.com
+        url: https://www.facebook.com/gianmariagiammy.bartoccioni
       - icon: fa-instagram
         label: Instagram
-        url: https://www.instagram.com/gianmaria._
+        url: https://www.instagram.com/gianmaria._/
       - icon: fa-github
         label: GitHub
-        url: https://www.github.com
+        url: https://github.com/Gianmaria13
       - icon: fa-linkedin
         label: LinkedIn
-        url: https://www.linkedin.com
+        url: www.linkedin.com/in/gianmariabartoccioni
   image: ''
-  name: Your name
+  name: Gianmaria
   navigation:
     button1:
       - name: Get Started
