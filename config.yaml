@@ -1,4 +1,4 @@
-baseURL: "https://gianmariabartoccioni.netlify.app/""
+baseURL:  "https://gianmariabartoccioni.netlify.app"
 languageCode: en-us
 title: My Website
 theme: forty
@@ -6,7 +6,7 @@ googleAnalytics: ''
 disqusShortname: ''
 params:
   banner: banner.jpg
-    buttonText: Let's take a look
+   buttonText: Let's take a look
     subtitle: |-
       A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP
       AND RELEASED UNDER THE CREATIVE COMMONS.
