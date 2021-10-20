@@ -80,7 +80,7 @@ params:
   tiles:
     enable: yes
     showcase:
-      - image: IMG_2763.jpg
+      - image: Gianmaria.jpg
         subtitle: Gianmaria's CV
         title: CV
         url: blogs/cv
